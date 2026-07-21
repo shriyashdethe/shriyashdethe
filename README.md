@@ -1,5 +1,40 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web development projects<br>Travelyaari (Travel website)<br>Machine Learning–based Yoga Pose Detection<br><br>Fitness Website mini project<br><br>Augmented Reality (AR) in Education project<br><br>👯 I’m looking to collaborate on<br><br>Web development projects (HTML, CSS, JavaScript, Java)<br><br>Java backend & Spring Boot projects<br><br>Machine Learning & AR-based applications<br><br>🤝 I’m looking for help with<br><br>Advanced Spring Boot & database integration<br><br>Real-world ML & AR project optimization<br><br>Interview-level DSA & Java multithreading concepts<br><br>🌱 I’m currently learning<br><br>Spring Boot & REST APIs<br><br>JDBC & SQL<br><br>Machine Learning fundamentals<br><br>Augmented Reality concepts for education<br><br>Software Engineering interview preparation<br><br>💬 Ask me about<br><br>Java & OOP concepts<br><br>Web Development (HTML, CSS, JS)<br><br>JDBC & SQL<br><br>AR in Education project implementation<br><br>Mini & final year project guidance<br><br>⚡ Fun fact<br><br>I love Kabaddi 🏋️‍♂️, swimming 🏊‍♂️, and building innovative projects like AR & ML apps 🚀
+
+🔭 I’m currently working on<br>
+Full-stack web development projects<br>
+Travelyaari (Travel Website)<br>
+Insurance Management System<br>
+Machine Learning–based Yoga Pose Detection<br>
+Fitness Website mini project<br>
+Augmented Reality (AR) in Education project
+
+👯 I’m looking to collaborate on<br>
+Web development projects (HTML, CSS, JavaScript, Java)<br>
+Java Backend & Spring Boot projects<br>
+Machine Learning & AR-based applications
+
+🤝 I’m looking for help with<br>
+Advanced Spring Boot & Database Integration<br>
+Real-world ML & AR project optimization<br>
+Interview-level DSA & Java Multithreading concepts
+
+🌱 I’m currently learning<br>
+Spring Boot & REST APIs<br>
+JDBC & SQL<br>
+Machine Learning fundamentals<br>
+Augmented Reality concepts for education<br>
+Software Engineering interview preparation
+
+💬 Ask me about<br>
+Java & OOP concepts<br>
+Web Development (HTML, CSS, JavaScript)<br>
+JDBC & SQL<br>
+AR in Education project implementation<br>
+Mini & Final Year project guidance
+
+⚡ Fun fact<br>
+I love Kabaddi 🏋️‍♂️, Swimming 🏊‍♂️, and building innovative projects like AR & ML apps 🚀
+
 
 
 ## 🌐 Socials:
